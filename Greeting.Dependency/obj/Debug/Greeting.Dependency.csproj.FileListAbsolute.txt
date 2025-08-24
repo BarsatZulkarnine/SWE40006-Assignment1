@@ -1,0 +1,6 @@
+C:\Users\msi\source\repos\ExampleDesktop\Greeting.Dependency\bin\Debug\Greeting.Dependency.dll
+C:\Users\msi\source\repos\ExampleDesktop\Greeting.Dependency\bin\Debug\Greeting.Dependency.pdb
+C:\Users\msi\source\repos\ExampleDesktop\Greeting.Dependency\obj\Debug\Greeting.Dependency.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\ExampleDesktop\Greeting.Dependency\obj\Debug\Greeting.Dependency.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\ExampleDesktop\Greeting.Dependency\obj\Debug\Greeting.Dependency.dll
+C:\Users\msi\source\repos\ExampleDesktop\Greeting.Dependency\obj\Debug\Greeting.Dependency.pdb

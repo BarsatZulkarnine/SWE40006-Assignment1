@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35CD4F5E-623F-44F2-854E-7A79FA1EC62A}|SetupProject1\\SetupProject1.wixproj|C:\\Users\\msi\\source\\repos\\ExampleDesktop\\SetupProject1\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35CD4F5E-623F-44F2-854E-7A79FA1EC62A}|SetupProject1\\SetupProject1.wixproj|solutionrelative:SetupProject1\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|C:\\Users\\msi\\source\\repos\\ExampleDesktop\\exampledesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|solutionrelative:exampledesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F257E60F-4CEA-4760-B2FC-C297FBF491DD}|RGB.Dependency\\RGB.Dependency.csproj|C:\\Users\\msi\\source\\repos\\ExampleDesktop\\rgb.dependency\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F257E60F-4CEA-4760-B2FC-C297FBF491DD}|RGB.Dependency\\RGB.Dependency.csproj|solutionrelative:rgb.dependency\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|C:\\Users\\msi\\source\\repos\\ExampleDesktop\\exampledesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|solutionrelative:exampledesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|C:\\Users\\msi\\source\\repos\\ExampleDesktop\\exampledesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|solutionrelative:exampledesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB78E7F-7CDC-445D-9ED9-80E09FF27197}|Greeting.Dependency\\Greeting.Dependency.csproj|C:\\Users\\msi\\source\\repos\\ExampleDesktop\\greeting.dependency\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB78E7F-7CDC-445D-9ED9-80E09FF27197}|Greeting.Dependency\\Greeting.Dependency.csproj|solutionrelative:greeting.dependency\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|C:\\Users\\msi\\source\\repos\\ExampleDesktop\\exampledesktop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|solutionrelative:exampledesktop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|C:\\Users\\msi\\source\\repos\\ExampleDesktop\\exampledesktop\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BCD359B1-F59A-429A-B62C-A433700C5088}|ExampleDesktop\\ExampleDesktop.csproj|solutionrelative:exampledesktop\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\SetupProject1\\Product.wxs",
+              "RelativeDocumentMoniker": "SetupProject1\\Product.wxs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\SetupProject1\\Product.wxs",
+              "RelativeToolTip": "SetupProject1\\Product.wxs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-19T09:32:55.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\RGB.Dependency\\Class1.cs",
+              "RelativeDocumentMoniker": "RGB.Dependency\\Class1.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\RGB.Dependency\\Class1.cs",
+              "RelativeToolTip": "RGB.Dependency\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:25:25.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\Greeting.Dependency\\Class1.cs",
+              "RelativeDocumentMoniker": "Greeting.Dependency\\Class1.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\Greeting.Dependency\\Class1.cs",
+              "RelativeToolTip": "Greeting.Dependency\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:21:56.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "ExampleDesktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Form1.cs",
+              "RelativeToolTip": "ExampleDesktop\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:24:04.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Form1.resx",
+              "RelativeDocumentMoniker": "ExampleDesktop\\Form1.resx",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Form1.resx",
+              "RelativeToolTip": "ExampleDesktop\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-19T01:22:35.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ExampleDesktop\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Form1.Designer.cs",
+              "RelativeToolTip": "ExampleDesktop\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:22:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleDesktop\\Program.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Program.cs",
+              "RelativeToolTip": "ExampleDesktop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:22:27.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "ExampleDesktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\ExampleDesktop\\ExampleDesktop\\Form1.cs [Design]",
+              "RelativeToolTip": "ExampleDesktop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:22:23.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\msi\source\repos\ExampleDesktop\SetupProject1\bin\Debug\SetupProject1.msi
+C:\Users\msi\source\repos\ExampleDesktop\SetupProject1\bin\Debug\SetupProject1.wixpdb

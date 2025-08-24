@@ -1,0 +1,3 @@
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+C:\Users\msi\source\repos\ExampleDesktop\Greeting.Dependency\bin\Debug\Greeting.Dependency.dll
+C:\Users\msi\source\repos\ExampleDesktop\RGB.Dependency\bin\Debug\RGB.Dependency.dll

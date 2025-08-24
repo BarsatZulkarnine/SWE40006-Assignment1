@@ -1,0 +1,16 @@
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe.config
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.pdb
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\Greeting.Dependency.dll
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\Greeting.Dependency.pdb
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.Form1.resources
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.Properties.Resources.resources
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleD.E14AF3E9.Up2Date
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.exe
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.pdb
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.exe.config
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\RGB.Dependency.dll
+C:\Users\msi\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\RGB.Dependency.pdb

@@ -1,0 +1,6 @@
+C:\Users\msi\source\repos\ExampleDesktop\RGB.Dependency\obj\Debug\RGB.Dependency.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\ExampleDesktop\RGB.Dependency\obj\Debug\RGB.Dependency.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\ExampleDesktop\RGB.Dependency\bin\Debug\RGB.Dependency.dll
+C:\Users\msi\source\repos\ExampleDesktop\RGB.Dependency\bin\Debug\RGB.Dependency.pdb
+C:\Users\msi\source\repos\ExampleDesktop\RGB.Dependency\obj\Debug\RGB.Dependency.dll
+C:\Users\msi\source\repos\ExampleDesktop\RGB.Dependency\obj\Debug\RGB.Dependency.pdb

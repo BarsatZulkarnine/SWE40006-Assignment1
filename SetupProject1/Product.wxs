@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*"
+			 Name="My Example Installer"
+			 Language="1033"
+			 Version="1.0.0.0"
+			 Manufacturer="ICT BARSAT"
+			 UpgradeCode="e07c632f-11ec-4660-a125-985bb45d4995">
+
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="My Example Installer" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+			<ComponentGroupRef Id="DependencyComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="My Example Installer" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="MainExecutable" Guid="449D3684-D2AD-401B-A19E-1ED63B8F66A0">
+				<File
+				  Id="ExampleDesktopExecutable"
+				  Name="ExampleDesktop.exe"
+				  Source="$(var.ExampleDesktop.TargetDir)ExampleDesktop.exe"
+				  KeyPath="yes" />
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="DependencyComponents" Directory="INSTALLFOLDER">
+
+			<Component Id="GreetingDependencyDLL" Guid="8BC162DA-B0A0-4F50-AC55-53EBF601E1E5">
+				<File
+				  Id="GreetingDependencyDll"
+				  Name="Greeting.Dependency.dll"
+				  Source="$(var.Greeting.Dependency.TargetDir)Greeting.Dependency.dll" />
+			</Component>
+
+			<Component Id="RGBDependencyDLL" Guid="AD7291F2-9330-4D5C-A8EA-A005C29B71A6">
+				<File
+				  Id="RGBDependencyDll"
+				  Name="RGB.Dependency.dll"
+				  Source="$(var.RGB.Dependency.TargetDir)RGB.Dependency.dll" />
+			</Component>
+
+		</ComponentGroup>
+	</Fragment>
+</Wix>

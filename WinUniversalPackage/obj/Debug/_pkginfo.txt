@@ -1,0 +1,1 @@
+C:\Users\msi\source\repos\ExampleDesktop\WinUniversalPackage\AppPackages\WinUniversalPackage_1.0.2.0_Debug_Test\WinUniversalPackage_1.0.2.0_AnyCPU_Debug.appxbundle

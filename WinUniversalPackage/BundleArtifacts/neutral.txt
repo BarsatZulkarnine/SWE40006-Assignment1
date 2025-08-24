@@ -1,0 +1,2 @@
+MainPackage=C:\Users\msi\source\repos\ExampleDesktop\WinUniversalPackage\bin\AnyCPU\Debug\WinUniversalPackage_1.0.2.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\msi\source\repos\ExampleDesktop\WinUniversalPackage\obj\Debug\Symbols\WinUniversalPackage_1.0.2.0_AnyCPU_Debug.appxsym
